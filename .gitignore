@@ -1,0 +1,6 @@
+src/.pytest_cache/
+src/bin/
+src/lib/
+src/chromedriver
+.idea/
+.git/
